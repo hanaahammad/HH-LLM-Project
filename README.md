@@ -24,5 +24,7 @@ the data set is an HTML page https://en.wikipedia.org/wiki/2023_Cricket_World_Cu
   - The nitebook documents all the instructions and additional lib may be required to install
   - in order to use OpenAI do the following:
       on a command window:
-      ``export export OPENAI_API_KEY=<Your API Key>
-      the code reads the env variable and associate with OpenAI client
+    
+      ``export export OPENAI_API_KEY=<Your API Key>``
+    
+     the code reads the env variable and associate with OpenAI client
