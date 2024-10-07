@@ -21,3 +21,8 @@ the data set is an HTML page https://en.wikipedia.org/wiki/2023_Cricket_World_Cu
   - install the required libraries
     
   ``pip install -r requirements.txt``
+  - The nitebook documents all the instructions and additional lib may be required to install
+  - in order to use OpenAI do the following:
+      on a command window:
+      ``export export OPENAI_API_KEY=<Your API Key>
+      the code reads the env variable and associate with OpenAI client
