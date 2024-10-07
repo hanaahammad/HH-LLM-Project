@@ -15,7 +15,8 @@ the data set is an HTML page https://en.wikipedia.org/wiki/2023_Cricket_World_Cu
 
 ## Note for reviewers:
 - clone the repo
-- 
+  
     ``git clone ``
-  install the required libraries
+  - install the required libraries
+    
   ``pip install -r requirements.txt``
