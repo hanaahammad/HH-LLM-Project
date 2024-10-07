@@ -7,7 +7,7 @@ the data set is an HTML page https://en.wikipedia.org/wiki/2023_Cricket_World_Cu
 - The evaluation is performed using Ragas where a ground truth data is generated
 - The evaluation is also shown by using LLM as a judge
 
-  # Cricket World Cup :)
+# Technology
 - LLM : OpenAI, Ollama
 - Knowledge Base using FAISS from Facebook : https://github.com/facebookresearch/faiss
 - Evaluation uses Ragas https://docs.ragas.io/en/stable/
