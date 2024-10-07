@@ -28,3 +28,5 @@ the data set is an HTML page https://en.wikipedia.org/wiki/2023_Cricket_World_Cu
       ``export export OPENAI_API_KEY=<Your API Key>``
     
      the code reads the env variable and associate with OpenAI client
+  - The vector database will be created with RAG flow in the path ``db_faiss/faiss_index``
+    this needs to change if running on Colab 
