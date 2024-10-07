@@ -13,6 +13,9 @@ the data set is an HTML page https://en.wikipedia.org/wiki/2023_Cricket_World_Cu
 - Evaluation uses Ragas https://docs.ragas.io/en/stable/
 - Interface is planned to use Streamlit
 
-Note for reviewers:
+## Note for reviewers:
 - clone the repo
+- 
     ``git clone ``
+  install the required libraries
+  ``pip install -r requirements.txt``
